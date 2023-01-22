@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [eBayTestingPage](https://github.com/MirsadHadzic/eBayTestingPage.git)
 
-- 🌱 I’m currently learning **JUnit, Selenium, and Java, with a focus on utilizing these tools and technologies for the purpose of software testing and validation, another thing that I am interested in is HTML and CSS**
+- 🌱 I’m currently learning **JUnit, Selenium, and Java, with a focus on utilizing these tools and technologies for the purpose of software testing and validation, another thing that I am interested in are HTML and CSS**
 
 - 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
 
