@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JUnit, Selenium, and Java, with a focus on utilizing these tools and technologies for the purpose of software testing and validation, another thing that I am interested in is HTML and CSS**
 
-- 👨‍💻 All of my projects are available at [portfolio link]([portfolio link](https://mirsadhadzic.github.io/index.html))
+- 👨‍💻 All of my projects are available at [portfolio link](https://mirsadhadzic.github.io/index.html)
 
 - 💬 Ask me about **Testing, Android Development**
 
