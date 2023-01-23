@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mirsad.hadzic.01@gmail.com**
 
-- 📄 Know about my experiences [resume link]()
+- 📄 Know about my experiences [resume link](CVMIrsadPdf.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
